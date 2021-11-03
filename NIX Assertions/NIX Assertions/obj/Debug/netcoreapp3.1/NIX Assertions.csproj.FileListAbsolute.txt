@@ -1,0 +1,16 @@
+C:\Users\Acer PC\source\repos\NIX Assertions\NIX Assertions\obj\Debug\netcoreapp3.1\NIX Assertions.csproj.AssemblyReference.cache
+C:\Users\Acer PC\source\repos\NIX Assertions\NIX Assertions\obj\Debug\netcoreapp3.1\NIX Assertions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer PC\source\repos\NIX Assertions\NIX Assertions\obj\Debug\netcoreapp3.1\NIX Assertions.AssemblyInfoInputs.cache
+C:\Users\Acer PC\source\repos\NIX Assertions\NIX Assertions\obj\Debug\netcoreapp3.1\NIX Assertions.AssemblyInfo.cs
+C:\Users\Acer PC\source\repos\NIX Assertions\NIX Assertions\obj\Debug\netcoreapp3.1\NIX Assertions.csproj.CoreCompileInputs.cache
+C:\Users\Acer PC\source\repos\NIX Assertions\NIX Assertions\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Acer PC\source\repos\NIX Assertions\NIX Assertions\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Acer PC\source\repos\NIX Assertions\NIX Assertions\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Acer PC\source\repos\NIX Assertions\NIX Assertions\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Acer PC\source\repos\NIX Assertions\NIX Assertions\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\Acer PC\source\repos\NIX Assertions\NIX Assertions\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\Acer PC\source\repos\NIX Assertions\NIX Assertions\bin\Debug\netcoreapp3.1\NIX Assertions.deps.json
+C:\Users\Acer PC\source\repos\NIX Assertions\NIX Assertions\bin\Debug\netcoreapp3.1\NIX Assertions.dll
+C:\Users\Acer PC\source\repos\NIX Assertions\NIX Assertions\bin\Debug\netcoreapp3.1\NIX Assertions.pdb
+C:\Users\Acer PC\source\repos\NIX Assertions\NIX Assertions\obj\Debug\netcoreapp3.1\NIX Assertions.dll
+C:\Users\Acer PC\source\repos\NIX Assertions\NIX Assertions\obj\Debug\netcoreapp3.1\NIX Assertions.pdb

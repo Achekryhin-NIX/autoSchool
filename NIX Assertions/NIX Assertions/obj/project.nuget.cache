@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "BM28yl9DSlq/erEzYGlQoVDe1pY+2J4g+A5MkP0Ymm0yGdrb5x2W12VpiL7NF4Oe4pAYuUkQJUpL4SiMI/9VgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer PC\\source\\repos\\NIX Assertions\\NIX Assertions\\NIX Assertions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Acer PC\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Acer PC\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\Acer PC\\.nuget\\packages\\nunit.console\\3.12.0\\nunit.console.3.12.0.nupkg.sha512",
+    "C:\\Users\\Acer PC\\.nuget\\packages\\nunit.consolerunner\\3.12.0\\nunit.consolerunner.3.12.0.nupkg.sha512",
+    "C:\\Users\\Acer PC\\.nuget\\packages\\nunit.extension.nunitprojectloader\\3.6.0\\nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
+    "C:\\Users\\Acer PC\\.nuget\\packages\\nunit.extension.nunitv2driver\\3.8.0\\nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
+    "C:\\Users\\Acer PC\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "C:\\Users\\Acer PC\\.nuget\\packages\\nunit.extension.teamcityeventlistener\\1.0.7\\nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
+    "C:\\Users\\Acer PC\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.8.0\\nunit.extension.vsprojectloader.3.8.0.nupkg.sha512",
+    "C:\\Users\\Acer PC\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
