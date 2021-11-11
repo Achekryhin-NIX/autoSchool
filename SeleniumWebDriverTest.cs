@@ -23,7 +23,7 @@ namespace SELENIUM_New
         }
 
         // 2. Get List 
-        static void Maain(string[] args)
+        static void Main(string[] args)
         {
             IWebDriver driver = new ChromeDriver();
             try
@@ -45,30 +45,30 @@ namespace SELENIUM_New
 
             // 3. Get Value Attribute "name"
 
-            static void Maiin(string[] argss)
+            static void Main(string[] args)
             {
-                IWebDriver Ddriver = new ChromeDriver();
-                Ddriver.Navigate().GoToUrl("http://automationpractice.com/");
-                String cssValue = Ddriver.FindElement(By.CssSelector("#search_query_top")).GetAttribute("name");
+                IWebDriver driver = new ChromeDriver();
+                driver.Navigate().GoToUrl("http://automationpractice.com/");
+                String cssValue = driver.FindElement(By.CssSelector("#search_query_top")).GetAttribute("name");
                 Console.WriteLine(cssValue);
                 Console.Read();
             }
             // 4. Click button  "Best seller"
 
-            static void Mainn(string[] arrgs)
+            static void Main(string[] args)
             {
-                IWebDriver drriver = new ChromeDriver();
-                drriver.Navigate().GoToUrl(@"http://automationpractice.com");
-                IWebElement element = drriver.FindElement(By.CssSelector("#home-page-tabs > li:nth-child(2) > a"));
+                IWebDriver driver = new ChromeDriver();
+                driver.Navigate().GoToUrl(@"http://automationpractice.com");
+                IWebElement element = driver.FindElement(By.CssSelector("#home-page-tabs > li:nth-child(2) > a"));
                 element.Click();
             }
 
             // 5. 
-            static void Mmain(string[] arggs)
+            static void Main(string[] args)
             {
-                IWebDriver driverr = new ChromeDriver();
-                driverr.Navigate().GoToUrl(@"http://automationpractice.com");
-                IWebElement element = driverr.FindElement(By.CssSelector("#search_query_top"));
+                IWebDriver driver = new ChromeDriver();
+                driver.Navigate().GoToUrl(@"http://automationpractice.com");
+                IWebElement element = driver.FindElement(By.CssSelector("#search_query_top"));
                 element.SendKeys("summer" + Keys.Enter);
             }
 
