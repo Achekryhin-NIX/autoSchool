@@ -63,7 +63,7 @@ namespace SELENIUM_New
                 element.Click();
             }
 
-            // 5. 
+            // 5. Input some value in the field "Search", and press button "Enter"
             static void Main(string[] args)
             {
                 IWebDriver driver = new ChromeDriver();
